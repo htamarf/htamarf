@@ -10,7 +10,7 @@
 
 #
 
-<img align="right" height="150" src="https://tenor.com/pt-BR/view/tkthao219-peach-goma-gif-27093068"  />
+<img align="right" height="150" src="https://tenor.com/pt-BR/view/typing-fast-studying-gif-25909549"  />
 
 #
 
