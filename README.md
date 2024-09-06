@@ -10,7 +10,7 @@
 
 #
 
-<img align="right" height="150" src="https://tenor.com/pt-BR/view/typing-fast-studying-gif-25909549"  />
+<img align="right" height="150" src="https://media.tenor.com/1G7KLUiquh0AAAAi/typing-fast.gif"  />
 
 #
 
