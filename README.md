@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media.tenor.com/o3Vf90wnBiEAAAAi/exploding-head-confusing.gif"  />
+<img align="right" height="150" src="[https://media.tenor.com/o3Vf90wnBiEAAAAi/exploding-head-confusing.gif](https://tenor.com/pt-BR/view/manidhaya-gif-6567565898148560969)"  />
 
 ###
 
