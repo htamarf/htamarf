@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="150" src="https://tenor.com/pt-BR/view/manidhaya-gif-6567565898148560969"  />
+<img align="right" height="150" src="https://tenor.com/pt-BR/view/bunny-cute-gif-25924246"  />
 
 ###
 
