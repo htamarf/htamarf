@@ -8,6 +8,8 @@
 
 <img align="right" height="150" src="https://tenor.com/pt-BR/view/mimibubu-gif-22393666"  />
 
+<div class="tenor-gif-embed" data-postid="25424939" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/cute-cat-white-gif-25424939">Cute Cat White Sticker</a>from <a href="https://tenor.com/search/cute+cat+white-stickers">Cute Cat White Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
 ###
 
 <div align="center">
