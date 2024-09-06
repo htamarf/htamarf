@@ -1,3 +1,9 @@
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&size=25&pause=999&color=F77884&center=true&vCenter=true&width=435&lines=%E2%9D%80++Bem-vindos+ao+meu+perfil+%E2%9D%80;%E2%9D%80++Bienvenidos+a+mi+perfil+%E2%9D%80;%E2%9D%80+Welcome+to+my+profile+%E2%9D%80" alt="Typing SVG" />
+  </a>
+</div>
+
 
 <img align="right" height="150" src="https://i.gifer.com/6o0.gif"  />
 
