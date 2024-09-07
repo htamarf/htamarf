@@ -26,8 +26,8 @@
 #
 
 <div align="left">
-  <a href="www.linkedin.com/in/htamarf" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="37" height="25" alt="linkedin logo"  />
+    <a href="https://www.linkedin.com/in/htamarf/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
   </a>
 </div>
 
